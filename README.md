@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a University second year studying Computer Science.<br>I am currently learning more about Unity game development.
+I'm a University third year studying Computer Science.<br>I am currently learning more about Unity game development.
 
 
 ## 🌐 Socials:
